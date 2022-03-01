@@ -8,7 +8,7 @@ banner:
     deliver  the best possible solutions for their needs
   button:
     enable: true
-    label: Discover Our Project
+    label: Find out about current <br> and future projects
     link: project/
 about:
   enable: true
