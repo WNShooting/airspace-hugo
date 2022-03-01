@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  bg_image: images/slider-bg.jpg
+  bg_image: images/18766764_1990998107811118_4108632850646818911_o.jpg
   bg_overlay: true
   title: West Nab Shooting Lodge
   content: We love the Web and the work we do.We work closely with our clients to
