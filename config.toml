@@ -23,7 +23,7 @@ link = "plugins/webfont-loader/webfont-loader-2.min.js"
 [params.variables]
 black = "#000000"
 body_color = " #006A4E"
-border_color = "#ACB9C4"
+border_color = " #006A4E"
 color_primary = "#b5a642"
 font_icon = "Font Awesome 5 Free"
 font_primary = "Roboto:wght@300;400"
